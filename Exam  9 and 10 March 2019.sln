@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam  9 and 10 March 2019", "Exam  9 and 10 March 2019\Exam  9 and 10 March 2019.csproj", "{B7162E50-0E41-4C6B-8F7F-77482045CFF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. High Jump", "06. High Jump\06. High Jump.csproj", "{1EE50A4D-8516-47CF-8531-CE27CA083947}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7162E50-0E41-4C6B-8F7F-77482045CFF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7162E50-0E41-4C6B-8F7F-77482045CFF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7162E50-0E41-4C6B-8F7F-77482045CFF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7162E50-0E41-4C6B-8F7F-77482045CFF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EE50A4D-8516-47CF-8531-CE27CA083947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE50A4D-8516-47CF-8531-CE27CA083947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE50A4D-8516-47CF-8531-CE27CA083947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE50A4D-8516-47CF-8531-CE27CA083947}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54592A76-A427-43F1-9C9C-D800B61F62DA}
+	EndGlobalSection
+EndGlobal
